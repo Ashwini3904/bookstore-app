@@ -1,0 +1,10 @@
+/* src/WelcomePage.css */
+.welcome-page {
+    background-image: url('/book-image.jpg'); /* Path from public folder */
+    background-size: cover;
+    background-position: center;
+    height: 100vh; /* Ensures it covers the full viewport */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
